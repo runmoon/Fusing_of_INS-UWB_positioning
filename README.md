@@ -2,6 +2,8 @@
 
 Author: LU Honghao
 
+Email: lu.honghao@outlook.com
+
 Department: College of Information Science and Engineering, Northeastern University (Shenyang, China)
 
 Desciption:
